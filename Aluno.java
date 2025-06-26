@@ -11,6 +11,9 @@ public class Aluno {
 		this.cpf=cpf;
 		this.curso=curso;
 	}
+	public Aluno(){
+		System.out.print("aluno")
+		{
 
 	public String getNome() {
 		return nome;
