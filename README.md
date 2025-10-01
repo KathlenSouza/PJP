@@ -1,2 +1,4 @@
 # PJP
-Desenvolvimento Jovem Programador - Java
+Desenvolvimento Jovem Programador - Java Web
+Projeto Pequenos Passos
+
