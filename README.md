@@ -11,9 +11,9 @@ Cuidados com a Saúde: Higiene, alimentação saudável, hábitos de sono.
 Vacinação: Calendário e lembretes de vacinação.
 
 
-Kathlen Caroline de Souza 
-Gabriel Sant'Anna
-Maria Isabel Klein Delavy
-Rafaela Helena Garbin Rudolf
-Thiago Emanoel
+Contribuição : Kathlen Caroline de Souza,
+Gabriel Sant'Anna,
+Maria Isabel Klein Delavy,
+Rafaela Helena Garbin Rudolf,
+Thiago Emanoel.
 
